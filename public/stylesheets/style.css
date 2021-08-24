@@ -1,0 +1,11 @@
+
+.userInactivo{
+    filter: grayscale(1)
+}
+.textareas{
+    resize: none;
+}
+
+/*div[class|="col"]{
+    border: 2px solid rgb(255, 44, 185);
+}*/
